@@ -24,7 +24,7 @@
 ![KakaoCloud](https://img.shields.io/badge/KakaoCloud-%23FEE500.svg?style=for-the-badge&logo=kakao&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🛠 DevOps & VCS
+### 🛠 DevOps
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -37,15 +37,14 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-
-      <img src="https://github-readme-stats.vercel.app/api?username=Doyunamic-Kwon&show_icons=true&show_rank=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyunamic-Kwon&layout=compact&theme=dark" alt="Top Langs" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Doyunamic-Kwon&show_icons=true&show_rank=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doyunamic-Kwon&layout=compact&theme=dark" alt="Top Langs" />
+</td>
+</tr>
 </table>
 
 </div>
@@ -54,11 +53,11 @@
 
 ## 📂 Projects
 
-| 프로젝트명 | 설명 | 역할 | 기술 스택 |
-| :---: | :--- | :---: | :---: |
-| **HAEZO** | 카카오워크 자동응답 챗봇 (WBS/일정 자동 생성, RAG 응답, 영수증 OCR) | AI Lead Developer | `Python` `RAG` `OCR` |
-| **[YouthFi](https://github.com/KEA-WhyNot)** | 청년 정책 및 금융 지원 안내 AI 챗봇 서비스 | AI Lead Developer | `Python` `RAG` `FastAPI` |
-| **[AutoResponse](https://github.com/Doyunamic-Kwon/AutoResponse)** | 리뷰 데이터 수집 및 자동 대응 시스템 | Backend | `Python` `Playwright` |
-| **[HEIC-to-JPG](https://github.com/Doyunamic-Kwon/HEIC-to-JPG)** | macOS용 HEIC 이미지 JPG 변환 자동화 도구 | Developer | `Swift` `Python` |
+| 프로젝트명 | 설명 | 역할 | 기술 스택 | 상태 |
+| :---: | :--- | :---: | :---: | :---: |
+| **HAEZO** | 카카오워크 자동응답 챗봇 (WBS/일정 자동 생성, RAG 응답, 영수증 OCR) | AI Lead Developer | `Python` `RAG` `OCR` | **완료 (기업연계 비공개)** |
+| **[YouthFi](https://github.com/KEA-WhyNot)** | 청년 정책 및 금융 지원 안내 AI 챗봇 서비스 | AI Lead Developer | `Python` `RAG` `FastAPI` | **완료** |
+| **[HEIC-to-JPG](https://github.com/Doyunamic-Kwon/HEIC-to-JPG)** | macOS용 HEIC 이미지 JPG 변환 자동화 도구 | Developer | `Swift` `Python` | **완료** |
+| **[AutoResponse](https://github.com/Doyunamic-Kwon/AutoResponse)** | 리뷰 데이터 수집 및 자동 대응 시스템 | Backend | `Python` `Playwright` | **진행 중** |
 
 </div>
