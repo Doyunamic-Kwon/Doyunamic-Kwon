@@ -46,14 +46,12 @@
 
 ---
 
-## 🏢 Organization Projects
-
-
+## 📂 Projects
 
 | 프로젝트명 | 설명 | 역할 | 기술 스택 |
 | :---: | :--- | :---: | :---: |
-| **[프로젝트 이름 A](링크)** | 프로젝트에 대한 간단한 설명을 적어주세요. | Backend | `Python` `FastAPI` |
-| **[프로젝트 이름 B](링크)** | 어떤 문제를 해결했는지 적어주세요. | Infra | `AWS` `Docker` |
-| **[프로젝트 이름 C](링크)** | Organization에서 진행한 프로젝트 설명 | Full Stack | `Java` `Spring` |
+| **[YouthFi (Kakao Chatbot)](https://github.com/KEA-WhyNot)** | 청년 정책 및 금융 지원 안내 AI 챗봇 서비스 | Lead Developer | `Python` `RAG` `FastAPI` |
+| **[AutoResponse](https://github.com/Doyunamic-Kwon/AutoResponse)** | 리뷰 데이터 수집 및 자동 대응 시스템 | Backend | `Python` `Playwright` |
+| **[HEIC-to-JPG](https://github.com/Doyunamic-Kwon/HEIC-to-JPG)** | macOS용 HEIC 이미지 JPG 변환 자동화 도구 | Developer | `Swift` `Python` |
 
 </div>
