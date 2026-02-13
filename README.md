@@ -58,7 +58,7 @@
 | 프로젝트명 | 설명 | 역할 | 상태 |
 | :---: | :--- | :---: | :---: |
 | **[GOTCHA](https://github.com/Gotcha-Captcha/Recaptcha)** | Google reCAPTCHA v2 자동 인식을 위한 딥러닝 기반 이미지 분류기 | AI Model Developer | **완료** |
-| **HAEZO** | 카카오워크 자동응답 챗봇 (WBS/일정 자동 생성, RAG 응답, 영수증 OCR) | AI Lead Developer | **완료 (기업연계 비공개)** |
+| **HAEZO** | 카카오워크 자동응답 챗봇 (WBS/일정 자동 생성, RAG 응답, 영수증 OCR) | AI Lead Developer | **완료 <br> (기업연계 비공개)** |
 | **[YouthFi](https://github.com/KEA-WhyNot)** | 청년 정책 및 금융 지원 안내 AI 챗봇 서비스 | AI Lead Developer | **완료** |
 | **[HEIC-to-JPG](https://github.com/Doyunamic-Kwon/HEIC-to-JPG)** | macOS용 HEIC 이미지 JPG 변환 자동화 도구 | Developer | **완료** |
 | **[AutoResponse](https://github.com/Doyunamic-Kwon/AutoResponse)** | 리뷰 데이터 수집 및 자동 대응 시스템 | Backend | **진행 중** |
